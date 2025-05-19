@@ -91,9 +91,13 @@
 
 ### 디렉토리 구조
 ├── auth/           # 유저 관리 & 인증
+
 ├── event/          # 이벤트/보상 비즈니스 로직
+
 ├── gateway/        # 요청 진입점 & 인증/프록시
+
 ├── docker-compose.yml
+
 └── README.md
 
 ### 기타 참고사항
